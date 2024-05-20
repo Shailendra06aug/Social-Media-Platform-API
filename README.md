@@ -22,6 +22,7 @@ The goal of this project is to develop a RESTful API for a social media platform
    Likes
 
     Like/Unlike Post: Users can like or unlike posts.
+    
     Activity Feed
 
    User Feed: Users can see posts from the users they follow.
