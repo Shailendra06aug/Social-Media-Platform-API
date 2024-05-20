@@ -36,4 +36,4 @@ Database: MySQL or PostgreSQL
 Security: Spring Security with JWT
 ORM: Hibernate
 In-Memory Database: H2 (for testing)
-Build Tool: Maven or Gradle
+Build Tool: Maven
