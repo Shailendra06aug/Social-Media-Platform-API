@@ -4,7 +4,7 @@ Project Description: Social Media Platform REST API
 The goal of this project is to develop a RESTful API for a social media platform using Spring Boot. The API will support typical social media functionalities such as user registration, profile management, post creation, commenting, liking, and following/unfollowing users. The platform will also include features for authentication, authorization, and activity feeds.
 
 # Key Features
-  User Management
+ # User Management
 
    User Registration: Allow users to sign up with a username, email, and password.
    User Login: Authenticate users with JWT-based tokens.
