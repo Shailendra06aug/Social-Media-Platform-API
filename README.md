@@ -31,9 +31,15 @@ Authentication & Authorization
 JWT Authentication: Secure endpoints using JWT tokens.
 Role-Based Access Control: Ensure proper access to endpoints (e.g., only post owners can delete posts).
 Technology Stack
+
 Backend: Spring Boot
+
 Database: MySQL or PostgreSQL
+
 Security: Spring Security with JWT
+
 ORM: Hibernate
+
 In-Memory Database: H2 (for testing)
+
 Build Tool: Maven
